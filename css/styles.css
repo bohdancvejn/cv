@@ -1,19 +1,45 @@
-body {
-  background-color: #f5f0e3;
-}
-
-hr {
-  border-style: none;
-  border-top-style: dotted;
-  color: #40bfc1;
-  border-top-width: 5px;
-  width: 5%;
+body{
+  /*background-image: url("C:/Users/bohdan.cvejn/CV/images/botanic_book.jpg");*/
+  background-color: #ccedd2;
+  margin: auto;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
 }
 
 h1{
-  color: #f0134d;
+  font-family: 'Rock Salt', cursive;
+}
+
+h2{
+  margin-top: 0;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 h3{
-  color: #f0134d;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.first-container {
+  position: relative;
+}
+
+.middle-container{
+  background-color: #ffeadb;
+}
+img{
+  border-radius: 50%;
+  border: 2px solid black;
+}
+
+p{
+  margin: auto;
+}
+
+hr{
+  margin: 0;
+}
+
+div{
+  margin-top: 0;
+  margin-bottom: 10px;
 }
